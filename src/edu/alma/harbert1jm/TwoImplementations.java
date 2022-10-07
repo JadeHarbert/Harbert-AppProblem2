@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * @author Jade Harbert
+ * @author Scott Dexter
  * CSC 240
  * February
  */
